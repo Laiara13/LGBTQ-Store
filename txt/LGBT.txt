@@ -1,0 +1,61 @@
+
+/* 
+#L{
+    width: 50vw;
+    color: rgb(91, 206, 250);
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#G{
+    width: 53vw;
+    color: rgb(245, 169, 184);
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#B{
+    width: 56vw;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#T{
+    width: 59vw;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#M{
+    width: 62vw;
+    color: rgb(245, 169, 184);
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#S{
+    width: 65vw;
+    color: rgb(91, 206, 250);
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+} */

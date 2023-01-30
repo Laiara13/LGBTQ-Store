@@ -1,0 +1,2 @@
+Fazer um site aleatorio para aprimorar o básico em apenas 30min.
+Conter html básico e css. Site de livre escolha.

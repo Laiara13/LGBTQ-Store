@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    color: aliceblue;
+    height: 27vh;
+    background-color: lightseagreen;
+}
+
+.titulo {
+    color: black;
+    writing-mode: vertical-lr;
+    height: 23vh;
+    position: relative;
+    font-size: 4vh;
+    display: inline-block;
+}
+
+.logo {
+    width: 11vw;
+    float: right;
+    height: 18vh;
+    display: inline-flex;
+}
+
+#letras {
+    width: 20vw;
+    color: black;
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#bem {
+    width: 12vw;
+    color: black;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#L {
+    width: 26vw;
+    color: #FF0018;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#G {
+    width: 29vw;
+    color: #FFA52C;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#B {
+    width: 32vw;
+    color: #FFFF41;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#T {
+    width: 35vw;
+    color: #008018;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#M {
+    width: 38vw;
+    color: #0000F9;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#S {
+    width: 41vw;
+    color: #86007D;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#oto {
+    width: 87vw;
+    color: black;
+    position: absolute;
+    font-size: 2vw;
+    align-content: center;
+    display: inline-block;
+}
+
+#registrar {
+    color: black;
+    background-color: aliceblue;
+    width: 8vw;
+    font-size: 2vh;
+    display: inline-block;
+    height: 5vh;
+    margin-left: 35vw;
+}
+
+#login {
+    color: black;
+    background-color: aliceblue;
+    display: inline-block;
+    width: 8vw;
+    font-size: 2vh;
+    height: 5vh;
+}
+
+
+
+
+/* Header pronto */
+
+#cat {
+    display: inline-table;
+    font-size: 2vw;
+    margin-top: 2vh;
+    height: 7vh;
+    text-align: center;
+    width: 10vw;
+}
+
+.compras {
+    display: inline-table;
+    font-size: 1.6vw;
+    content-visibility: hidden;
+    text-align: center;
+    width: 10vw;
+}
+
+#compras {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.line {
+    border: #439 solid 0.5vh;
+    writing-mode: vertical-lr;
+    height: 81vh;
+    display: inline;
+    position: fixed;
+}
